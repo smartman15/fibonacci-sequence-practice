@@ -1,4 +1,3 @@
-import test from "node:test";
 import { fibonacci } from "./fibonacci";
 
 test("First fibonacci number returns 1", () => {
